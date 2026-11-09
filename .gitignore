@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+/state/
+/plans/
+/chapters/
+/memory/
+/reviews/
+/exports/
+/revisions/

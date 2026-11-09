@@ -1,0 +1,13 @@
+{
+  "title": "由 AI 决定",
+  "genre": "由 AI 决定",
+  "premise": "由 AI 决定",
+  "audience": "成人大众读者",
+  "style": "自然、具体、有场景和人物行动，减少重复心理描写和空泛总结",
+  "ending": "明确收束主冲突和主要人物弧线，具体结局由 AI 决定",
+  "chapter_count": 40,
+  "target_chinese_chars": 100000,
+  "chapter_min_chars": 1800,
+  "length_tolerance": 0.1,
+  "max_revision_rounds": 2
+}
